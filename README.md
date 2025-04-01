@@ -11,8 +11,8 @@ Este repositorio contiene la solución presentada en la Hackathon de ISA en 2024
 - Proponer estrategias basadas en datos para mejorar la eficiencia del mantenimiento.
 
 ## Herramientas Utilizadas
-- **Excel**: Exploración inicial y limpieza de datos.
-- **Python**: Análisis y visualización de datos con Pandas, Matplotlib y Seaborn.
+- **Excel**: Exploración inicial.
+- **Python**: Exploración, limpieza, análisis y visualización de datos con Pandas, Matplotlib y Seaborn.
 
 ## Cómo Ejecutar el Proyecto
 1. Clonar este repositorio:
