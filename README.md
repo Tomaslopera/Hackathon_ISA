@@ -24,8 +24,4 @@ Este repositorio contiene la solución presentada en la Hackathon de ISA en 2024
    pip install pandas matplotlib seaborn
    ```
 ## Estructura del Código
-Este repositorio contiene dos versiones del análisis:
-- **Original** (`main`): Refleja exactamente la solución presentada en la hackathon.
-- **Mejorada** (`improved_analysis`): Basada en conocimientos adquiridos posteriormente, con una metodología más robusta.
-
-Esto permite mantener la transparencia sobre la solución inicial mientras se demuestra la evolución en el análisis de datos.
+- **Main**: La solución está basada en conocimientos adquiridos posteriormente, con una metodología más robusta (No es la solución aplicada durante el desarrollo del reto)
